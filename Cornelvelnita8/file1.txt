@@ -1,0 +1,1 @@
+*5/ * * * * echo "Do Something" >> /home/cornel/Desktop/file1.txt>/dev/pts/0
